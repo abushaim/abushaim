@@ -1,28 +1,107 @@
-<h1 align="center">Hi 👋, I'm ABU SHAIM</h1>
-<h3 align="center">I'm a professional WordPress designer and developer as well as an entrepreneur and digital marketing consultant!</h3>
 
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/iamabushaim" target="blank"><img src="https://img.shields.io/twitter/follow/iamabushaim?logo=twitter&style=for-the-badge" alt="iamabushaim" /></a> </p>
+# Hi, I'm Abu Shaim 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamabushaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabushaim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abushaim/?original_referer=https%3a%2f%2fabushaim.com%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abushaim/?original_referer=https%3a%2f%2fabushaim.com%2f" height="30" width="40" /></a>
-<a href="https://fb.com/iamabushaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamabushaim" height="30" width="40" /></a>
-<a href="https://instagram.com/abushaimme/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abushaimme/?hl=en" height="30" width="40" /></a>
-<a href="https://dribbble.com/abushaim/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abushaim/about" height="30" width="40" /></a>
-<a href="https://www.behance.net/abushaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abushaim" height="30" width="40" /></a>
-<a href="https://medium.com/@abushaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abushaim" height="30" width="40" /></a>
+### Entrepreneur | Web Developer | Digital Marketing Consultant | AI Automation Enthusiast
+
+**Building practical digital solutions for businesses, marketing teams, and operations.**
+
+[![Website](https://img.shields.io/badge/Website-SalesTell.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://salestell.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abushaim/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abushaim)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abushaim)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Bangladesh-based entrepreneur, WordPress designer and developer, and digital marketing consultant. My work brings together **web development, digital marketing, creative production, business operations, and workflow automation**.
+
+I enjoy solving practical business problems, improving repetitive processes, and turning ideas into working digital systems.
+
+- 🌐 **Web:** WordPress websites, front-end development, and web design
+- 📈 **Marketing:** SEO, social media marketing, lead generation, and content strategy
+- 🤖 **Automation:** AI-assisted workflows, document organization, and media production systems
+- ⚙️ **Operations:** CRM setup, marketing operations, customer communication, and process improvement
+- 🎓 **Education:** MBA
+- 📍 **Location:** Dhaka, Bangladesh
+
+## 🛠️ Technologies & Tools
+
+**Web development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,react,nextjs,nodejs,angular,bootstrap,laravel,mysql&perline=12" alt="Web development technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Design & creative**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/abushaim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abushaim" /></a><a href="https://ko-fi.com/abushaim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abushaim" /></a></p><br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&perline=8" alt="Design and creative tools" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abushaim&show_icons=true&locale=en&layout=compact" alt="abushaim" /></p>
+**Other tools and platforms**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abushaim&show_icons=true&locale=en" alt="abushaim" /></p>
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-CRM-1E3A5F?style=flat-square)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-Productivity-4285F4?style=flat-square&logo=google&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-Operations-2CA01C?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat-square&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Workflows-412991?style=flat-square&logo=openai&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abushaim&" alt="abushaim" /></p>
+## 💼 What I Work On
+
+| Area | Focus |
+| :--- | :--- |
+| **Web Design & Development** | WordPress, responsive websites, and user-friendly interfaces |
+| **Digital Marketing** | SEO, social media, content planning, and lead generation |
+| **Business Automation** | Document handling, workflow optimization, and AI-assisted processes |
+| **CRM & Operations** | GoHighLevel, customer communications, and operational workflows |
+| **Creative Production** | Visual design, video editing, and content production |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abushaim&show_icons=true&theme=tokyonight&hide_border=true" alt="Abu Shaim GitHub statistics" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abushaim&layout=compact&theme=tokyonight&hide_border=true" alt="Abu Shaim top GitHub languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=abushaim&theme=tokyonight&hide_border=true" alt="Abu Shaim GitHub contribution streak" />
+
+</div>
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abushaim/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamabushaim)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamabushaim/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abushaimme/)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/abushaim)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abushaim)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abushaim)
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/abushaim)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my GitHub profile!**
+
+*Interested in working together? Connect with me on [LinkedIn](https://www.linkedin.com/in/abushaim/).*
+
+</div>
